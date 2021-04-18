@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/solid-tech/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/solid-tech/static/js/main.fd5cfeed.chunk.js",
+    "main.js.map": "/solid-tech/static/js/main.fd5cfeed.chunk.js.map",
+    "runtime-main.js": "/solid-tech/static/js/runtime-main.c393971e.js",
+    "runtime-main.js.map": "/solid-tech/static/js/runtime-main.c393971e.js.map",
+    "static/js/2.ecd849ab.chunk.js": "/solid-tech/static/js/2.ecd849ab.chunk.js",
+    "static/js/2.ecd849ab.chunk.js.map": "/solid-tech/static/js/2.ecd849ab.chunk.js.map",
+    "static/js/3.76452f29.chunk.js": "/solid-tech/static/js/3.76452f29.chunk.js",
+    "static/js/3.76452f29.chunk.js.map": "/solid-tech/static/js/3.76452f29.chunk.js.map",
+    "index.html": "/solid-tech/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/solid-tech/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ecd849ab.chunk.js.LICENSE.txt": "/solid-tech/static/js/2.ecd849ab.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/solid-tech/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c393971e.js",
+    "static/js/2.ecd849ab.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fd5cfeed.chunk.js"
+  ]
+}
